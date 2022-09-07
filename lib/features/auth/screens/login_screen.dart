@@ -83,6 +83,7 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
                   ),
                 ],
               ),
+              // const Spacer(),
               SizedBox(height: size.height * 0.1),
               SizedBox(
                 width: 90,
